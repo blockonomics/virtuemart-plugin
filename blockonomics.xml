@@ -46,11 +46,11 @@ THE SOFTWARE.
         <!-- <param name="alt_payments" type="checkbox" label="VMPAYMENT_BLOCKONOMICS_ALT_PAYMENTS_LABEL" description="VMPAYMENT_BLOCKONOMICS_ALT_PAYMENTS_LABEL" /> -->
         <param name="timer" type="list" default="live" label="VMPAYMENT_BLOCKONOMICS_TIMER_LABEL"
            description="VMPAYMENT_BLOCKONOMICS_TIMER_LABEL">
-            <option value="10">10</option>
-            <option value="15">15</option>
-            <option value="20">20</option>
-            <option value="25">25</option>
-            <option value="30">30</option>
+            <option value="10">10 mins</option>
+            <option value="15">15 mins</option>
+            <option value="20">20 mins</option>
+            <option value="25">25 mins</option>
+            <option value="30">30 mins</option>
         </param>
         <param name="title" type="City" label="VMPAYMENT_BLOCKONOMICS_SETUP_TEST_LABEL" description="VMPAYMENT_BLOCKONOMICS_SETUP_TEST_LABEL" />
     </params>
@@ -63,11 +63,11 @@ THE SOFTWARE.
                     <!-- <field name="alt_payments" type="checkbox" label="VMPAYMENT_BLOCKONOMICS_ALT_PAYMENTS_LABEL" description="VMPAYMENT_BLOCKONOMICS_ALT_PAYMENTS_LABEL" /> -->
                     <field name="timer" type="list" default="live" label="VMPAYMENT_BLOCKONOMICS_TIMER_LABEL"
                        description="VMPAYMENT_BLOCKONOMICS_TIMER_LABEL">
-                        <option value="10">10</option>
-                        <option value="15">15</option>
-                        <option value="20">20</option>
-                        <option value="25">25</option>
-                        <option value="30">30</option>
+                        <option value="10">10 mins</option>
+                        <option value="15">15 mins</option>
+                        <option value="20">20 mins</option>
+                        <option value="25">25 mins</option>
+                        <option value="30">30 mins</option>
                     </field>
                     <field name="title" type="City" label="VMPAYMENT_BLOCKONOMICS_SETUP_TEST_LABEL" description="VMPAYMENT_BLOCKONOMICS_SETUP_TEST_LABEL" />
             </fieldset>

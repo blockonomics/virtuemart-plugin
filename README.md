@@ -1,5 +1,5 @@
 # Joomla Bitcoin Payments - Blockonomics #
-Accept bitcoin payments on your Joomla website, Bitcoin payments go directly to your wallet.
+Accept bitcoin payments on your Joomla website.
 
 ## Description ##
 - Accept bitcoin payments on your VirtueMart store with ease

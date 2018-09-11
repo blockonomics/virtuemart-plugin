@@ -12,7 +12,6 @@ Accept bitcoin payments on your Joomla website, Bitcoin payments go directly to 
 - Go to VirtueMart -> Payment Methods and click on "New" 
 - Type in the payment method information, selecting "VM Payment - Blockonomics" as the Payment Method and "Yes" in the publish section.
 - Save, then navigate to the configuration tab 
-- Click on *Get Started for Free* on [Merchants](https://www.blockonomics.co/merchants?utm_source=joomla) and complete the wizard to get your API Key
 - Set your API key
 - Click on the "Test Setup" button
 
